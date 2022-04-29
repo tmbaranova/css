@@ -1,0 +1,66 @@
+body {
+    padding: 5% 25% 10% 25%;
+    background-color: rgba(228, 228, 228, 0.5);
+    background-image: url('Ellipse 1 copy.png');
+    background-blend-mode: screen;
+    background-repeat: no-repeat;
+    background-position: 70% 20%;
+    background-size: 80%;
+    font-family: arial;
+    color: rgba(39, 61, 70, 0.8);
+    }
+
+
+h6 {
+    color: rgba(39, 61, 70, 0.2);
+    font-size: 10pt;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+    letter-spacing: 20px;
+    padding: 0 40px 0 40px;
+}
+
+h1 {
+    padding: 0 50px 60px 50px;
+    font-weight: normal;
+    font-family: times;
+    text-align: center;
+    font-size: 30pt;
+}
+
+.image {
+    border: 10px solid;
+    border-color: #fff;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2), -1px -1px 10px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    height: auto;
+}
+
+p{
+    font-size: 24pt;
+    font-family: times;
+    text-align: left;
+    padding: 20px 30px 20px 30px;
+
+}
+
+.list {
+    background-image: url('check icon.png');
+    background-repeat: no-repeat;
+    list-style-type: none;
+    padding: 10px 0 10px 30px;
+    background-position: 0 50%;
+
+}
+.btn {
+    background-color: rgba(128, 183, 179, 0.8);
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2), -1px -1px 10px rgba(0, 0, 0, 0.2);
+    font-size: 16px;
+    letter-spacing: 7px;
+    margin: 10px 10px 10px 40px;
+}
